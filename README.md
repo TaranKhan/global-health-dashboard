@@ -4,10 +4,18 @@ This project visualizes and analyzes global trends in **life expectancy** and **
 
 ---
 
-## 📁 Datasets Used
+### 📁 Datasets Used
 
-- **Life Expectancy** – [Our World in Data (UN WPP)](https://ourworldindata.org/life-expectancy)
-- **Health Expenditure Per Capita** – [World Bank](https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD)
+The following datasets are **included in this repository** for convenience:
+
+- **Life Expectancy** – From [Our World in Data (UN WPP)](https://ourworldindata.org/life-expectancy)  
+  → `life-expectancy-unwpp.csv`
+
+- **Health Expenditure Per Capita** – From [World Bank](https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD)  
+  → `API_SH.XPD.CHEX.PC.CD_DS2_en_csv_v2_87561.csv`
+
+No need to download externally — everything needed to run the notebook is already here.
+
 
 ---
 
