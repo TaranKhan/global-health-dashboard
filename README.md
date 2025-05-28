@@ -44,4 +44,5 @@ This project visualizes and analyzes global trends in **life expectancy** and **
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook dashboard.ipynb
+jupyter notebook global_health_dashboard.ipynb
+
